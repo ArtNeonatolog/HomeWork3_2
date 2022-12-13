@@ -12,7 +12,7 @@
     <artifactId>HomeWork3_2</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>HomeWork3_2</name>
-    <description>HomeWork3_2</description>
+    <description>Проект - домашняя работа 3, функции проекта - познавательная, обучающая; проект реализован с помощью технологии виртуальной реальности и написан с помощью языка программирования Java</description>
     <properties>
         <java.version>17</java.version>
     </properties>
